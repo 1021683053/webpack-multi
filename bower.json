@@ -1,0 +1,21 @@
+{
+  "name": "webpack-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Liweifeng <1021683063@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
